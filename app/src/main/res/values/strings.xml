@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Super</string>
+    <string name="hero1">Kamen Rider Agito</string>
+    <string name="description1">Awaken the soul.</string>
+    <string name="hero2">Kamen Rider OOO</string>
+    <string name="description2">I will transform!</string>
+    <string name="hero3">Kamen Rider Decade</string>
+    <string name="description3">I am just a passing-through Kamen Rider. Remember that!</string>
+    <string name="hero4">Kamen Rider Ex-Aid</string>
+    <string name="description4">I will clear this with No Continues!</string>
+    <string name="hero5">Kamen Rider Ryuki</string>
+    <string name="description5">Those who do not fight will not survive!</string>
+    <string name="hero6">Kamen Rider Gaim</string>
+    <string name="description6">This is my stage now!</string>
+</resources>
